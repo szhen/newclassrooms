@@ -1,0 +1,22 @@
+<library>
+    <track id="1" genre="Rap" time="3:24">
+        <name>Who We Be RMX (feat. 2Pac)</name>
+        <artist>DMX</artist>
+        <album>The Dogz Mixtape: Who's Next?!</album>
+    </track>
+    <track id="2" genre="Rap" time="5:06">
+        <name>Angel (ft. Regina Bell)</name>
+        <artist>DMX</artist>
+        <album>...And Then There Was X</album>
+    </track>
+    <track id="3" genre="Break Beat" time="6:16">
+        <name>Dreaming Your Dreams</name>
+        <artist>Hybrid</artist>
+        <album>Wide Angle</album>
+    </track>
+    <track id="4" genre="Break Beat" time="9:38">
+        <name>Finished Symphony</name>
+        <artist>Hybrid</artist>
+        <album>Wide Angle</album>
+    </track>
+<library>
